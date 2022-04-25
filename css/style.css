@@ -48,7 +48,7 @@ body {
 .logo img {
     margin-left: 35px;
     transition: all 1s ease;    
-    cursor: url(icons48), pointer;
+    cursor: url(icons48.cur), pointer;
 }
 
 .logo img:hover {
